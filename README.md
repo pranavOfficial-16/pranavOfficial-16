@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Flutter Development<br>Interested in Data Science<br>Lets discuss about DSA
+I'm currently interested in Problem-Solving<br>Interested in Data Science<br>Lets discuss about Flutter
 
 
 # 💻 Tech Stack:
