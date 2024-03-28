@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer with good problem-solving skills and a team player. Highly proficient in C++ and interested in exploring AI and ML domains where I can upskill myself with any language, and frameworks and <br> passionate about learning and implementing.
+Software Engineer with good problem-solving skills and a team player. Highly proficient in C++ and interested in exploring AI and ML domains where I can upskill myself with any language, and frameworks and passionate about learning and implementing.
 
 
 # 💻 Tech Stack:
