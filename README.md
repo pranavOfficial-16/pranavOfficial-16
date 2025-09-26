@@ -8,7 +8,7 @@ I am Pranav. Welcome to my page.
 • M.Tech in Software Engineering (Integrated) graduate from Vellore Institute of Technology - Chennai  
 
 # Area of Expertise  
-• I have hands-on experience in Mobile Application Development, Frontend & Backend web development,   Data Analysis, Automation & Manual Testing   
+• I have hands-on experience in Mobile App Development, Frontend & Backend, Data Analysis, Automation & Manual Testing   
 • Solved around 350+ coding problems in [Leetcode](https://leetcode.com/u/pranav_rao/)  
 
 # Technical Skills
