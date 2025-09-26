@@ -12,11 +12,11 @@ I am Pranav. Welcome to my page.
 • Solved around 350+ coding problems in [Leetcode](https://leetcode.com/u/pranav_rao/)  
 
 # Technical Skills
-• Programming Languages: C/C++, Python, C#, SQL  
-• Mobile Development: Java, Android Studio, Dart, Flutter  
-• Machine Learning and AI: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, NLTK  
-• Web Development: JavaScript, TypeScript, ReactJS, NodeJS, ExpressJS, Flask, FastAPI  
-• Databases: MySQL, PostgreSQL, SQLite, NoSQL, MongoDB, Redis, Firebase  
-• Tools and Technologies: Squish, Docker, REST API, GraphQL, Unix/Linux, Postman, Jira  
+• **Programming Languages**: C/C++, Python, C#, SQL  
+• **Mobile Development**: Java, Android Studio, Dart, Flutter  
+• **Machine Learning and AI**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, NLTK  
+• **Web Development**: JavaScript, TypeScript, ReactJS, NodeJS, ExpressJS, Flask, FastAPI  
+• **Databases**: MySQL, PostgreSQL, SQLite, NoSQL, MongoDB, Redis, Firebase  
+• **Tools and Technologies**: Squish, Docker, REST API, GraphQL, Unix/Linux, Postman, Jira  
 
 
