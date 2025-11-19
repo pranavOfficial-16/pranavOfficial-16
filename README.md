@@ -12,7 +12,7 @@ I am Pranav. Welcome to my page.
 • Solved around 350+ coding problems in [Leetcode](https://leetcode.com/u/pranav_rao/)  
 
 # Technical Skills
-• **Programming Languages**: C/C++, Python, C#, SQL
+• **Programming Languages**: C/C++, Python, C#, SQL <br>
 • **Mobile Development**: Java, Android Studio, Dart, Flutter
 • **Python Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, NLTK
 • **Databases**: MySQL, PostgreSQL, SQLite, NoSQL, MongoDB, Redis, Firebase
