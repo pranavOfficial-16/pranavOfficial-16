@@ -9,7 +9,7 @@ Welcome to my GitHub page!
 • Class X (CGPA - 9.4) and Class XII (86 %)
 
 # Area of Expertise  
-• I have hands-on experience in Mobile App Development, Frontend & Backend, Data Analysis, Generative AI, Automation & Manual Testing   
+• I have hands-on experience in Mobile App Development, Frontend & Backend, Data Analysis, Generative AI, <br> Automation & Manual Testing   
 • Solved around 350+ coding problems in [Leetcode](https://leetcode.com/u/pranav_rao/)  
 
 # Technical Skills
