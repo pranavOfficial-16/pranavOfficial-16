@@ -13,11 +13,11 @@ I am Pranav. Welcome to my page.
 
 # Technical Skills
 • **Programming Languages**: C/C++, Python, C#, SQL <br>
-• **Mobile Development**: Java, Android Studio, Dart, Flutter
-• **Python Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, NLTK
-• **Databases**: MySQL, PostgreSQL, SQLite, NoSQL, MongoDB, Redis, Firebase
-• **Frontend & Backend**: Tailwind CSS, JavaScript, ReactJS, Redux, NodeJS, ExpressJS, FastAPI
-• **Gen AI Frameworks & Tools**: LLMs & APIs Integration, Retrieval-Augmented Generation (RAG), LangChain
-• **Fundamentals**: Data Structures & Algorithms, Object-Oriented Programming (OOP), LLD & HLD Design
+• **Mobile Development**: Java, Android Studio, Dart, Flutter <br>
+• **Python Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, NLTK <br>
+• **Databases**: MySQL, PostgreSQL, SQLite, NoSQL, MongoDB, Redis, Firebase <br>
+• **Frontend & Backend**: Tailwind CSS, JavaScript, ReactJS, Redux, NodeJS, ExpressJS, FastAPI <br>
+• **Gen AI Frameworks & Tools**: LLMs & APIs Integration, Retrieval-Augmented Generation (RAG), LangChain <br>
+• **Fundamentals**: Data Structures & Algorithms, Object-Oriented Programming (OOP), LLD & HLD Design 
 
 
