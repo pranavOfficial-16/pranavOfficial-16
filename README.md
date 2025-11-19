@@ -6,7 +6,7 @@ I am Pranav. Welcome to my page.
 • Ex - Software Development Engineer in Test (Research & Development Intern) at Stryker  
 • Ex - Flutter Developer Intern at Ridobiko Bike Rentals   
 • Bachelor’s + Master’s in Software Engineering (Integrated) graduate from Vellore Institute of Technology - Chennai (CGPA - 8.43) <br>
-• Class X (CGPA - 9.4) & Class XII (86 %)
+• Class X (CGPA - 9.4) and Class XII (86 %)
 
 # Area of Expertise  
 • I have hands-on experience in Mobile App Development, Frontend & Backend, Data Analysis, Automation & Manual Testing   
