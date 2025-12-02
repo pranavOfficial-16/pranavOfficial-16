@@ -10,7 +10,7 @@ Welcome to my GitHub page!
 
 # Area of Expertise  
 • I have hands-on experience in Mobile App & Web Development, Generative AI, Automation Testing   
-• Solved around 400+ coding problems in [Leetcode](https://leetcode.com/u/pranav_rao/)  
+• Solved around 400+ coding problems in [Leetcode](https://leetcode.com/u/pranavOfficial/)  
 
 # Technical Skills
 • **Programming Languages**: C/C++, Python, C#, SQL <br>
