@@ -2,9 +2,9 @@ Hi, I'm Pranav! <br>
 Welcome to my GitHub page!
 
 # About Me  
-Hey there! I am Pranav!
-• Currently working as a Software Developer Trainee at Toadster Technologies
-• Ex - Software Test Automation Engineer (R&D Intern) at Stryker
+Hey there! I am Pranav! <br>
+• Currently working as a Software Developer Trainee at Toadster Technologies <br>
+• Ex - Software Test Automation Engineer (R&D Intern) at Stryker <br>
 • Ex - Flutter Developer Intern at Ridobiko Bike Rentals
 
 # Area of Expertise  
