@@ -1,5 +1,5 @@
 Hey there! I am Pranav! <br>
-• Currently working as a Software Developer Trainee at Toadster Technologies <br>
+• Currently working as a Software Engineer Trainee at Toadster Technologies <br>
 • Ex - Software Test Automation Engineer (R&D Intern) at Stryker <br>
 • Ex - Flutter Developer Intern at Ridobiko Bike Rentals
 
