@@ -1,16 +1,9 @@
-Hey there! I am Pranav! <br>
+Backend & GenAI focused Python Developer with 1.7+ years of experience building Backend systems & GenAI applications. Proficient in Python, FastAPI, SQL, LLM integration, RAG, LangChain, and LangGraph, with hands-on experience in vector databases (ChromaDB, Milvus) & AWS cloud deployment. Proven track record of delivering scalable, AI-driven solutions by collaborating with engineering teams & improving workflow efficiency by up to 35%
 
-# Area of Expertise  
-• I have hands-on experience in Mobile App & Web Development, Generative AI, and Automation Testing   
-• Solved around 450+ coding problems in [Leetcode](https://leetcode.com/u/pranavOfficial/)  
-
-# Technical Skills
-• **Programming Languages**: C/C++, Python, SQL <br>
-• **Mobile Development**: Java, Android Studio, Dart, Flutter <br>
-• **Python Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, NLTK <br>
-• **Databases**: MySQL, PostgreSQL, SQLite, NoSQL, MongoDB, Redis, Firebase <br>
-• **Frontend & Backend**: Tailwind CSS, JavaScript, ReactJS, Redux, NodeJS, ExpressJS, FastAPI <br>
-• **Gen AI Frameworks & Tools**: LLMs & APIs Integration, Retrieval-Augmented Generation (RAG) <br>
-• **Fundamentals**: Data Structures & Algorithms, Object-Oriented Programming (OOP), LLD & HLD Design 
+• Languages & Frameworks: C++, Python, SQL, ReactJS, FastAPI
+• Generative AI: LLMs & APIs Integration, RAG, LangChain, LangGraph, Prompt Engineering
+• Voice & Conversational AI: Twilio, Text-to-Speech(TTS), Speech-to-Text(STT)
+• Databases: PostgreSQL, SQLite, MongoDB, Redis, Firebase, ChromaDB, Milvus
+• DevOps & Cloud: Docker, AWS(EC2, S3, Lambda), CI/CD 
 
 
